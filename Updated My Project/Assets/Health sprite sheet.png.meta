@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 7d794d27f3dee7a4da5611697f81a434
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8524349484412348951
+    second: Health sprite sheet_0
+  - first:
+      213: 7846218871423653985
+    second: Health sprite sheet_1
+  - first:
+      213: -1763830830304155022
+    second: Health sprite sheet_2
+  - first:
+      213: 6562025015153693306
+    second: Health sprite sheet_3
+  - first:
+      213: 5363205879155865711
+    second: Health sprite sheet_4
+  - first:
+      213: -3571230507512658407
+    second: Health sprite sheet_5
+  - first:
+      213: 6114778993141110970
+    second: Health sprite sheet_6
+  - first:
+      213: 3038950323271707770
+    second: Health sprite sheet_7
+  - first:
+      213: -3207212164453262811
+    second: Health sprite sheet_8
+  - first:
+      213: 5258539740482569103
+    second: Health sprite sheet_9
+  - first:
+      213: -2080049673634986336
+    second: Health sprite sheet_10
+  - first:
+      213: 2415597103012036182
+    second: Health sprite sheet_11
+  - first:
+      213: 6716191463333187615
+    second: Health sprite sheet_12
+  - first:
+      213: -1997508156396574849
+    second: Health sprite sheet_13
+  - first:
+      213: 5325198732549973969
+    second: Health sprite sheet_14
+  - first:
+      213: 2958113917521989411
+    second: Health sprite sheet_15
+  - first:
+      213: 5668659617745318373
+    second: Health sprite sheet_16
+  - first:
+      213: 2696917414697294758
+    second: Health sprite sheet_17
+  - first:
+      213: 8371657091605998479
+    second: Health sprite sheet_18
+  - first:
+      213: -2838829166517302449
+    second: Health sprite sheet_19
+  - first:
+      213: 5287540426260227725
+    second: Health sprite sheet_20
+  - first:
+      213: 2430250102002192713
+    second: Health sprite sheet_21
+  - first:
+      213: -5267430354833512860
+    second: Health sprite sheet_22
+  - first:
+      213: 3085147908346516001
+    second: Health sprite sheet_23
+  - first:
+      213: -8735203374565530834
+    second: Health sprite sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Health sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8622cac00e116940800000000000000
+      internalID: 5287540426260227725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941923d779bf9b120800000000000000
+      internalID: 2430250102002192713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 12b8abb084d052e46b5baed95ef47679
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Health sprite sheet_20: 5287540426260227725
+      Health sprite sheet_21: 2430250102002192713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
